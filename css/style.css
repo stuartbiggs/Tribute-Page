@@ -1,0 +1,54 @@
+body {
+  display: block;
+  margin: 0px;
+}
+
+main {
+ display: block;
+
+}
+
+p {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h3, figcaption {
+text-align: center;
+font-family: 'Lato', sans-serif;
+width: 100vw;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  line-height: 1.6;
+  text-align: left;
+  background-color: #ebebeb;
+}
+
+li {
+  list-style-type: square;
+  font-family: 'Lato', sans-serif;
+}
+
+#caption {
+  margin-top: 10px;
+  max-width: 100%;
+}
+
+
+
+a:link {
+  text-decoration: none;
+}
